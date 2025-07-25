@@ -51,10 +51,10 @@ This project tackles a set of advanced data visualization challenges and a regre
 <table>
   <tr>
     <td width="50%">
-      <img src="./Lesson_7/assets/fig1.png" alt="Visualization 1" width="100%">
+      <img src="https://raw.githubusercontent.com/DuyLinh-Data/SCA_Lesson/main/Lesson_7/fig1.png" alt="Visualization 1" width="100%">
     </td>
     <td width="50%">
-      <img src="./Lesson_7/assets/fig2.png" alt="Regression Output" width="100%">
+      <img src="https://raw.githubusercontent.com/DuyLinh-Data/SCA_Lesson/main/Lesson_7/fig2.png" alt="Regression Output" width="100%">
     </td>
   </tr>
 </table>
